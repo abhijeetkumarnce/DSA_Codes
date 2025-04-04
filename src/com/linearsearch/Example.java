@@ -1,6 +1,6 @@
 package com.linearsearch;
 
-public class Example1 {
+public class Example {
     public static void main(String[] args) {
         int[] arr = {23, 43, 12, 2, 6, 22, 56, 7};
         int target = 22;
